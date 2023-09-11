@@ -1,13 +1,13 @@
 @media(min-width: 0) {
     :root {
         /* font-size */
-        --vvs: 12.8px;
-        --vs: 10px;
+        --vvs: 10px;
+        --vs: 11px;
         --s: 12px;
-        --m1: 15px;
-        --m2: 16px;
-        --m3: 35px;
-        --m4: 21px;
+        --m1: 13px;
+        --m2: 14px;
+        --m3: 21px;
+        --m4: 35px;
         --m5: 39.063px;
         --l: 48px;
         --xl: 50px;
